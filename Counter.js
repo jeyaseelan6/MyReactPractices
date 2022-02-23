@@ -22,6 +22,6 @@ class Counter extends React.Component{
       
       }
     }
-
+//This is a comment, will check it added successfully
     
 export default Counter;
